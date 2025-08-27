@@ -1,2 +1,2 @@
 # OpenLab
-Dealing with multy hardwares for geoLab.
+Dealing with hardwares in labs.
